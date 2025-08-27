@@ -84,4 +84,4 @@ git config user.name [git 닉네임]
 git config user.email [git 메일 주소]
 
 
-mz
+OoO
